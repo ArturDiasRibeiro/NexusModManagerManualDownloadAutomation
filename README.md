@@ -42,3 +42,10 @@ Run the bot:
 Bash
 python downloadManuallyVortexModManager.py
 Start your collection download in Vortex and let the automation handle the rest. 🍦
+
+I might be working on this later.
+
+If you would like to buy me a Coffee:
+https://www.paypal.com/donate/?hosted_button_id=C8FDDKGCQMGZW
+Or my nft (it's a meme):
+https://opensea.io/collection/the-concrete-mycelium/overview
