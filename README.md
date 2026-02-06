@@ -1,4 +1,4 @@
-*NO LONGER FUNCTIONAL* 
+*NO LONGER FUNCTIONAL, project has being put on hold for the moment* 
 
  
 I’ve refined the technical terms to ensure it sounds like a professional tool for the English-speaking modding community.
