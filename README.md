@@ -1,5 +1,7 @@
 *NO LONGER FUNCTIONAL* 
-Here is the translated content for your README.md. I’ve refined the technical terms to ensure it sounds like a professional tool for the English-speaking modding community.
+
+ 
+I’ve refined the technical terms to ensure it sounds like a professional tool for the English-speaking modding community.
 
 Nexus Mods restricts automatic collection downloads to Premium users only. For Free users, Vortex (Mod Manager) requires a manual click on a "Download Manually" button for every single mod in a collection. This opens a browser tab where you must click "Slow Download" again. For collections with hundreds of mods, this process is tedious and inefficient.
 
