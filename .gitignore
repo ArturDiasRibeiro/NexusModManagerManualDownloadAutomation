@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Imagens de teste (opcional, se não quiser subir seus prints pessoais)
+# target_manually.png
